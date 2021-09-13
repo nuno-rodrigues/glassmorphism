@@ -1,0 +1,6 @@
+.DS_Store
+*THUMBS*-*x*-*
+.idea
+error_log
+node_modules/
+css/
